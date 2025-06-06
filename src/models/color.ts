@@ -1,0 +1,1 @@
+export type Color = 'Black' | 'French Navy' | 'Kumquat' | 'Lavender Haze' | 'Sea Salt'; 

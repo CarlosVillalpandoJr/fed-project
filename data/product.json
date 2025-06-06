@@ -20,7 +20,9 @@
       "upcNoCheckDigit": 19755123915,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-2X",
       "designationName": "Everyday",
@@ -32,7 +34,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:12+00:00",
       "createdDate": "2024-08-30T14:40:04+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -60,7 +64,16 @@
         }
       },
       "sizeCode": "2X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177804,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress 2XL",
@@ -344,7 +357,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -354,7 +370,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -365,7 +385,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -377,7 +400,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -427,7 +452,9 @@
       "upcNoCheckDigit": 19755123916,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-3X",
       "designationName": "Everyday",
@@ -439,7 +466,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:13+00:00",
       "createdDate": "2024-08-30T14:40:05+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -467,7 +496,16 @@
         }
       },
       "sizeCode": "3X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177805,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress 3XL",
@@ -751,7 +789,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -761,7 +802,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -772,7 +817,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -784,7 +832,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -834,7 +884,9 @@
       "upcNoCheckDigit": 19755123913,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-LA",
       "designationName": "Everyday",
@@ -846,7 +898,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:11+00:00",
       "createdDate": "2024-08-30T14:40:02+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -874,7 +928,16 @@
         }
       },
       "sizeCode": "LA",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177802,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress L",
@@ -1158,7 +1221,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -1168,7 +1234,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -1179,7 +1249,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -1191,7 +1264,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -1241,7 +1316,9 @@
       "upcNoCheckDigit": 19755123912,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-MD",
       "designationName": "Everyday",
@@ -1253,7 +1330,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:11+00:00",
       "createdDate": "2024-08-30T14:40:02+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -1281,7 +1360,16 @@
         }
       },
       "sizeCode": "MD",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177801,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress M",
@@ -1565,7 +1653,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -1575,7 +1666,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -1586,7 +1681,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -1598,7 +1696,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -1648,7 +1748,9 @@
       "upcNoCheckDigit": 19755123911,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-SM",
       "designationName": "Everyday",
@@ -1660,7 +1762,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:11+00:00",
       "createdDate": "2024-08-30T14:40:01+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -1688,7 +1792,16 @@
         }
       },
       "sizeCode": "SM",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177800,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress S",
@@ -1972,7 +2085,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -1982,7 +2098,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -1993,7 +2113,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -2005,7 +2128,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -2055,7 +2180,9 @@
       "upcNoCheckDigit": 19755123914,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-XL",
       "designationName": "Everyday",
@@ -2067,7 +2194,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:12+00:00",
       "createdDate": "2024-08-30T14:40:03+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -2095,7 +2224,16 @@
         }
       },
       "sizeCode": "XL",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177803,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress XL",
@@ -2379,7 +2517,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -2389,7 +2530,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -2400,7 +2545,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -2412,7 +2560,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -2462,7 +2612,9 @@
       "upcNoCheckDigit": 19755123910,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-XS",
       "designationName": "Everyday",
@@ -2474,7 +2626,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:10+00:00",
       "createdDate": "2024-08-30T14:40:00+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -2502,7 +2656,16 @@
         }
       },
       "sizeCode": "XS",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177799,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress XS",
@@ -2786,7 +2949,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -2796,7 +2962,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -2807,7 +2977,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -2819,7 +2992,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -2869,7 +3044,9 @@
       "upcNoCheckDigit": 19755123909,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Black"],
+      "primaryColorList": [
+        "Black"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-BLK-XX",
       "designationName": "Everyday",
@@ -2881,7 +3058,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-05-30T06:23:31+00:00",
       "createdDate": "2024-08-30T14:39:59+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -2909,7 +3088,16 @@
         }
       },
       "sizeCode": "XX",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177798,
       "description": "Women's Black Coastal Double Gauze Boho Midi Dress XX",
@@ -3193,7 +3381,10 @@
           "url": "https://pact.canto.com/direct/image/mnh32518n14nn4t0g3c75t5e4r/qqw8VqKkRxnty7Bu-yXMHy6jSkU/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343.jpg",
@@ -3203,7 +3394,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/blk-1505429343.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "blk-1505429343_100.jpg",
@@ -3214,7 +3409,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -3226,7 +3424,9 @@
       "color": "Black",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -3276,7 +3476,9 @@
       "upcNoCheckDigit": 19755123907,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-2X",
       "designationName": "Everyday",
@@ -3288,7 +3490,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:10+00:00",
       "createdDate": "2024-08-30T14:39:58+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -3316,7 +3520,16 @@
         }
       },
       "sizeCode": "2X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177796,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress 2XL",
@@ -3601,7 +3814,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -3611,7 +3827,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -3622,7 +3842,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -3634,7 +3857,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -3684,7 +3909,9 @@
       "upcNoCheckDigit": 19755123908,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-3X",
       "designationName": "Everyday",
@@ -3696,7 +3923,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:10+00:00",
       "createdDate": "2024-08-30T14:39:58+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -3724,7 +3953,16 @@
         }
       },
       "sizeCode": "3X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177797,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress 3XL",
@@ -4009,7 +4247,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -4019,7 +4260,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -4030,7 +4275,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -4042,7 +4290,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -4092,7 +4342,9 @@
       "upcNoCheckDigit": 19755123905,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-LA",
       "designationName": "Everyday",
@@ -4104,7 +4356,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:09+00:00",
       "createdDate": "2024-08-30T14:39:56+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -4132,7 +4386,16 @@
         }
       },
       "sizeCode": "LA",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177794,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress L",
@@ -4417,7 +4680,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -4427,7 +4693,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -4438,7 +4708,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -4450,7 +4723,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -4500,7 +4775,9 @@
       "upcNoCheckDigit": 19755123904,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-MD",
       "designationName": "Everyday",
@@ -4512,7 +4789,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:09+00:00",
       "createdDate": "2024-08-30T14:39:55+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -4540,7 +4819,16 @@
         }
       },
       "sizeCode": "MD",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177793,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress M",
@@ -4825,7 +5113,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -4835,7 +5126,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -4846,7 +5141,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -4858,7 +5156,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -4908,7 +5208,9 @@
       "upcNoCheckDigit": 19755123903,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-SM",
       "designationName": "Everyday",
@@ -4920,7 +5222,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:08+00:00",
       "createdDate": "2024-08-30T14:39:54+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -4948,7 +5252,16 @@
         }
       },
       "sizeCode": "SM",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177792,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress S",
@@ -5233,7 +5546,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -5243,7 +5559,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -5254,7 +5574,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -5266,7 +5589,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -5316,7 +5641,9 @@
       "upcNoCheckDigit": 19755123906,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-XL",
       "designationName": "Everyday",
@@ -5328,7 +5655,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:09+00:00",
       "createdDate": "2024-08-30T14:39:57+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -5356,7 +5685,16 @@
         }
       },
       "sizeCode": "XL",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177795,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress XL",
@@ -5641,7 +5979,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -5651,7 +5992,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -5662,7 +6007,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -5674,7 +6022,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -5724,7 +6074,9 @@
       "upcNoCheckDigit": 19755123902,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-XS",
       "designationName": "Everyday",
@@ -5736,7 +6088,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:08+00:00",
       "createdDate": "2024-08-30T14:39:53+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -5764,7 +6118,16 @@
         }
       },
       "sizeCode": "XS",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177791,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress XS",
@@ -6049,7 +6412,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -6059,7 +6425,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -6070,7 +6440,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -6082,7 +6455,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -6132,7 +6507,9 @@
       "upcNoCheckDigit": 19755123901,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Blue"],
+      "primaryColorList": [
+        "Blue"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-FNV-XX",
       "designationName": "Everyday",
@@ -6144,7 +6521,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-01T06:14:46+00:00",
       "createdDate": "2024-08-30T14:39:52+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -6172,7 +6551,16 @@
         }
       },
       "sizeCode": "XX",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177790,
       "description": "Women's French Navy Coastal Double Gauze Boho Midi Dress XX",
@@ -6457,7 +6845,10 @@
           "url": "https://pact.canto.com/direct/image/rdjrf44tjh7v92sloft6fbdh05/_iP0Ifca5uBZeZ2TYbqTDJIX-GY/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710.jpg",
@@ -6467,7 +6858,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/fnv-1676243710.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "fnv-1676243710_100.jpg",
@@ -6478,7 +6873,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -6490,7 +6888,9 @@
       "color": "French Navy",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["Everyday"],
+      "seasonList": [
+        "Everyday"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -6540,7 +6940,9 @@
       "upcNoCheckDigit": 19755123923,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-2X",
       "designationName": "LTO",
@@ -6552,7 +6954,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:15+00:00",
       "createdDate": "2024-08-30T14:40:11+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -6580,7 +6984,16 @@
         }
       },
       "sizeCode": "2X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177812,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress 2XL",
@@ -6879,7 +7292,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -6889,7 +7305,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -6900,7 +7320,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -6912,7 +7335,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -6962,7 +7387,9 @@
       "upcNoCheckDigit": 19755123924,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-3X",
       "designationName": "LTO",
@@ -6974,7 +7401,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:15+00:00",
       "createdDate": "2024-08-30T14:40:12+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -7002,7 +7431,16 @@
         }
       },
       "sizeCode": "3X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177813,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress 3XL",
@@ -7301,7 +7739,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -7311,7 +7752,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -7322,7 +7767,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -7334,7 +7782,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -7384,7 +7834,9 @@
       "upcNoCheckDigit": 19755123921,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-LA",
       "designationName": "LTO",
@@ -7396,7 +7848,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:14+00:00",
       "createdDate": "2024-08-30T14:40:09+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -7424,7 +7878,16 @@
         }
       },
       "sizeCode": "LA",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177810,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress L",
@@ -7723,7 +8186,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -7733,7 +8199,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -7744,7 +8214,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -7756,7 +8229,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -7806,7 +8281,9 @@
       "upcNoCheckDigit": 19755123920,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-MD",
       "designationName": "LTO",
@@ -7818,7 +8295,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:14+00:00",
       "createdDate": "2024-08-30T14:40:08+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -7846,7 +8325,16 @@
         }
       },
       "sizeCode": "MD",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177809,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress M",
@@ -8145,7 +8633,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -8155,7 +8646,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -8166,7 +8661,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -8178,7 +8676,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -8228,7 +8728,9 @@
       "upcNoCheckDigit": 19755123919,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-SM",
       "designationName": "LTO",
@@ -8240,7 +8742,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:13+00:00",
       "createdDate": "2024-08-30T14:40:07+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -8268,7 +8772,16 @@
         }
       },
       "sizeCode": "SM",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177808,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress S",
@@ -8567,7 +9080,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -8577,7 +9093,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -8588,7 +9108,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -8600,7 +9123,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -8650,7 +9175,9 @@
       "upcNoCheckDigit": 19755123922,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-XL",
       "designationName": "LTO",
@@ -8662,7 +9189,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:15+00:00",
       "createdDate": "2024-08-30T14:40:10+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -8690,7 +9219,16 @@
         }
       },
       "sizeCode": "XL",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177811,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress XL",
@@ -8989,7 +9527,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -8999,7 +9540,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -9010,7 +9555,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -9022,7 +9570,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -9072,7 +9622,9 @@
       "upcNoCheckDigit": 19755123918,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-XS",
       "designationName": "LTO",
@@ -9084,7 +9636,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:13+00:00",
       "createdDate": "2024-08-30T14:40:07+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -9112,7 +9666,16 @@
         }
       },
       "sizeCode": "XS",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177807,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress XS",
@@ -9411,7 +9974,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -9421,7 +9987,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -9432,7 +10002,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -9444,7 +10017,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -9494,7 +10069,9 @@
       "upcNoCheckDigit": 19755123917,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Red"],
+      "primaryColorList": [
+        "Red"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-KUM-XX",
       "designationName": "LTO",
@@ -9506,7 +10083,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:13+00:00",
       "createdDate": "2024-08-30T14:40:06+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -9534,7 +10113,16 @@
         }
       },
       "sizeCode": "XX",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177806,
       "description": "Women's Kumquat Coastal Double Gauze Boho Midi Dress XX",
@@ -9833,7 +10421,10 @@
           "url": "https://pact.canto.com/direct/image/lo21qg1fu90cr41nckma652f2r/dpI0-qxsO7M8DVaggPbNplBARkM/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595.jpg",
@@ -9843,7 +10434,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/kum-1746558595.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "kum-1746558595_100.jpg",
@@ -9854,7 +10449,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -9866,7 +10464,9 @@
       "color": "Kumquat",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -9916,7 +10516,9 @@
       "upcNoCheckDigit": 19755123931,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-2X",
       "designationName": "LTO",
@@ -9928,7 +10530,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:17+00:00",
       "createdDate": "2024-08-30T14:40:18+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -9956,7 +10560,16 @@
         }
       },
       "sizeCode": "2X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177820,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress 2XL",
@@ -10285,7 +10898,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -10295,7 +10911,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -10306,7 +10926,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -10318,7 +10941,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -10368,7 +10993,9 @@
       "upcNoCheckDigit": 19755123932,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-3X",
       "designationName": "LTO",
@@ -10380,7 +11007,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:17+00:00",
       "createdDate": "2024-08-30T14:40:19+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -10408,7 +11037,16 @@
         }
       },
       "sizeCode": "3X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177821,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress 3XL",
@@ -10737,7 +11375,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -10747,7 +11388,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -10758,7 +11403,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -10770,7 +11418,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -10820,7 +11470,9 @@
       "upcNoCheckDigit": 19755123929,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-LA",
       "designationName": "LTO",
@@ -10832,7 +11484,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:17+00:00",
       "createdDate": "2024-08-30T14:40:16+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -10860,7 +11514,16 @@
         }
       },
       "sizeCode": "LA",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177818,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress L",
@@ -11189,7 +11852,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -11199,7 +11865,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -11210,7 +11880,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -11222,7 +11895,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -11272,7 +11947,9 @@
       "upcNoCheckDigit": 19755123928,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-MD",
       "designationName": "LTO",
@@ -11284,7 +11961,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:16+00:00",
       "createdDate": "2024-08-30T14:40:15+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -11312,7 +11991,16 @@
         }
       },
       "sizeCode": "MD",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177817,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress M",
@@ -11641,7 +12329,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -11651,7 +12342,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -11662,7 +12357,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -11674,7 +12372,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -11724,7 +12424,9 @@
       "upcNoCheckDigit": 19755123927,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-SM",
       "designationName": "LTO",
@@ -11736,7 +12438,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:16+00:00",
       "createdDate": "2024-08-30T14:40:14+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -11764,7 +12468,16 @@
         }
       },
       "sizeCode": "SM",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177816,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress S",
@@ -12093,7 +12806,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -12103,7 +12819,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -12114,7 +12834,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -12126,7 +12849,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -12176,7 +12901,9 @@
       "upcNoCheckDigit": 19755123930,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-XL",
       "designationName": "LTO",
@@ -12188,7 +12915,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:17+00:00",
       "createdDate": "2024-08-30T14:40:17+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -12216,7 +12945,16 @@
         }
       },
       "sizeCode": "XL",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177819,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress XL",
@@ -12545,7 +13283,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -12555,7 +13296,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -12566,7 +13311,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -12578,7 +13326,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -12628,7 +13378,9 @@
       "upcNoCheckDigit": 19755123926,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-XS",
       "designationName": "LTO",
@@ -12640,7 +13392,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:15+00:00",
       "createdDate": "2024-08-30T14:40:13+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -12668,7 +13422,16 @@
         }
       },
       "sizeCode": "XS",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177815,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress XS",
@@ -12997,7 +13760,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -13007,7 +13773,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -13018,7 +13788,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -13030,7 +13803,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -13080,7 +13855,9 @@
       "upcNoCheckDigit": 19755123925,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["Purple"],
+      "primaryColorList": [
+        "Purple"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-LVZ-XX",
       "designationName": "LTO",
@@ -13092,7 +13869,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-05-28T14:22:18+00:00",
       "createdDate": "2024-08-30T14:40:12+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -13120,7 +13899,16 @@
         }
       },
       "sizeCode": "XX",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177814,
       "description": "Women's Lavender Haze Coastal Double Gauze Boho Midi Dress XX",
@@ -13449,7 +14237,10 @@
           "url": "https://pact.canto.com/direct/image/de8fc3l4fd5uldabqurt08bu4p/OmlKB6Wd69Gi9njv_5s6RCoYDFg/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775.jpg",
@@ -13459,7 +14250,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/lvz-1744656775.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "lvz-1744656775_100.jpg",
@@ -13470,7 +14265,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -13482,7 +14280,9 @@
       "color": "Lavender Haze",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -13532,7 +14332,9 @@
       "upcNoCheckDigit": 19755123899,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-2X",
       "designationName": "LTO",
@@ -13544,7 +14346,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:08+00:00",
       "createdDate": "2024-08-30T14:39:51+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -13572,7 +14376,16 @@
         }
       },
       "sizeCode": "2X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177788,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress 2XL",
@@ -13857,7 +14670,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -13867,7 +14683,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -13878,7 +14698,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -13890,7 +14713,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -13940,7 +14765,9 @@
       "upcNoCheckDigit": 19755123900,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-3X",
       "designationName": "LTO",
@@ -13952,7 +14779,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-05-28T14:22:19+00:00",
       "createdDate": "2024-08-30T14:39:52+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -13980,7 +14809,16 @@
         }
       },
       "sizeCode": "3X",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177789,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress 3XL",
@@ -14265,7 +15103,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -14275,7 +15116,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -14286,7 +15131,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -14298,7 +15146,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -14348,7 +15198,9 @@
       "upcNoCheckDigit": 19755123897,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-LA",
       "designationName": "LTO",
@@ -14360,7 +15212,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:07+00:00",
       "createdDate": "2024-08-30T14:39:49+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -14388,7 +15242,16 @@
         }
       },
       "sizeCode": "LA",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177786,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress L",
@@ -14673,7 +15536,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -14683,7 +15549,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -14694,7 +15564,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -14706,7 +15579,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -14756,7 +15631,9 @@
       "upcNoCheckDigit": 19755123896,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-MD",
       "designationName": "LTO",
@@ -14768,7 +15645,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:07+00:00",
       "createdDate": "2024-08-30T14:39:48+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -14796,7 +15675,16 @@
         }
       },
       "sizeCode": "MD",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177785,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress M",
@@ -15081,7 +15969,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -15091,7 +15982,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -15102,7 +15997,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -15114,7 +16012,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -15164,7 +16064,9 @@
       "upcNoCheckDigit": 19755123895,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-SM",
       "designationName": "LTO",
@@ -15176,7 +16078,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:06+00:00",
       "createdDate": "2024-08-30T14:39:48+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -15204,7 +16108,16 @@
         }
       },
       "sizeCode": "SM",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177784,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress S",
@@ -15489,7 +16402,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -15499,7 +16415,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -15510,7 +16430,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -15522,7 +16445,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -15572,7 +16497,9 @@
       "upcNoCheckDigit": 19755123898,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-XL",
       "designationName": "LTO",
@@ -15584,7 +16511,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:08+00:00",
       "createdDate": "2024-08-30T14:39:50+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -15612,7 +16541,16 @@
         }
       },
       "sizeCode": "XL",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177787,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress XL",
@@ -15897,7 +16835,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -15907,7 +16848,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -15918,7 +16863,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -15930,7 +16878,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -15980,7 +16930,9 @@
       "upcNoCheckDigit": 19755123894,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-XS",
       "designationName": "LTO",
@@ -15992,7 +16944,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-06-02T06:14:06+00:00",
       "createdDate": "2024-08-30T14:39:47+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -16020,7 +16974,16 @@
         }
       },
       "sizeCode": "XS",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177783,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress XS",
@@ -16305,7 +17268,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -16315,7 +17281,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -16326,7 +17296,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -16338,7 +17311,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",
@@ -16388,7 +17363,9 @@
       "upcNoCheckDigit": 19755123893,
       "enableReviews": true,
       "packaging": "Vela Bag",
-      "primaryColorList": ["White"],
+      "primaryColorList": [
+        "White"
+      ],
       "impactWaterSavings": "0",
       "externalId": "WA1-W9D-SSL-XX",
       "designationName": "LTO",
@@ -16400,7 +17377,9 @@
       "isResaleOnly": false,
       "washingInstructions": "Machine wash cold.",
       "countryOfManufacture": "_india",
-      "fiberContentDetailList": ["100% Organic Cotton"],
+      "fiberContentDetailList": [
+        "100% Organic Cotton"
+      ],
       "lastModifiedDate": "2025-05-28T14:22:23+00:00",
       "createdDate": "2024-08-30T14:39:46+00:00",
       "markNewUntilDate": "2025-06-28T06:00:00+00:00",
@@ -16428,7 +17407,16 @@
         }
       },
       "sizeCode": "XX",
-      "sizeRangeList": ["XS", "SM", "MD", "LA", "XL", "2X", "3X", "XX"],
+      "sizeRangeList": [
+        "XS",
+        "SM",
+        "MD",
+        "LA",
+        "XL",
+        "2X",
+        "3X",
+        "XX"
+      ],
       "category": "All Dresses & Skirts",
       "netsuiteId": 177782,
       "description": "Women's Sea Salt Coastal Double Gauze Boho Midi Dress XX",
@@ -16713,7 +17701,10 @@
           "url": "https://pact.canto.com/direct/image/phc06p57b150vbi5me19614b3r/7cL7x9g2AT5HVYF0Tdeqv2NkK8A/m2000/2000"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151.jpg",
@@ -16723,7 +17714,11 @@
           "url": "https://static.wearpact.com/img/product/swatch/ssl-1647956151.jpg"
         },
         {
-          "tagList": ["bucket:static.wearpact.com", "swatch", "swatch_thumb"],
+          "tagList": [
+            "bucket:static.wearpact.com",
+            "swatch",
+            "swatch_thumb"
+          ],
           "isSwatch": true,
           "provider": "s3",
           "name": "ssl-1647956151_100.jpg",
@@ -16734,7 +17729,10 @@
         }
       ],
       "reportingStyle": "Coastal Double Gauze Boho Midi Dress",
-      "categoryList": ["All Dresses & Skirts", "Dresses"],
+      "categoryList": [
+        "All Dresses & Skirts",
+        "Dresses"
+      ],
       "gotsLabelList": [
         "GLOBAL ORGANIC TEXTILE STANDARD",
         "Organic. Certified by Control Union. 832196"
@@ -16746,7 +17744,9 @@
       "color": "Sea Salt",
       "recordType": "inventoryItem",
       "age": "Adult",
-      "seasonList": ["SS25"],
+      "seasonList": [
+        "SS25"
+      ],
       "productType": "Women",
       "taxCode": "PC040100",
       "collectionKey": "W-COASTA",

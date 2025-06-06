@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     reactStrictMode: true,
+    swcMinify: true,
     images: {
-        domains: ['static.wearpact.com', 'media.wearpact.com', 'pact.canto.com'],
+        domains: ['static.wearpact.com'],
     },
-}
+};
 
-export default nextConfig 
+export default nextConfig; 
