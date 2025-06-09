@@ -10,7 +10,6 @@ export function ProductDetails({
     selectedSize,
     onSizeSelect,
     selectedColor,
-    onColorSelect
 }: ProductDetailsProps) {
     const [{ rate: price, currency }] = Object.values(product.priceList);
 
@@ -19,7 +18,6 @@ export function ProductDetails({
     )?.[1].name || product.primaryColorList[0];
 
     const handleColorSelect = (color: Color) => {
-        onColorSelect(color);
         updateProductColor(color);
         onImageSelect(0);
     };

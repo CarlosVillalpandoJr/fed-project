@@ -38,18 +38,3 @@ export const colorData: Record<Color, {
     }
 };
 
-export const basicToDisplayColor: Record<string, Color> = {
-    'Black': 'Black',
-    'Blue': 'French Navy',
-    'Red': 'Kumquat',
-    'Purple': 'Lavender Haze',
-    'White': 'Sea Salt'
-};
-
-export const colorCodeMap: Record<Color, string> = {
-    'Black': 'blk',
-    'French Navy': 'fnv',
-    'Kumquat': 'kum',
-    'Lavender Haze': 'lvz',
-    'Sea Salt': 'ssl'
-}; 

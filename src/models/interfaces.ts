@@ -8,7 +8,6 @@ export interface ProductDetailsProps {
     selectedSize: string | null;
     onSizeSelect: (size: string | null) => void;
     selectedColor: Color;
-    onColorSelect: (color: Color) => void;
 }
 
 export interface ProductCarouselProps {
