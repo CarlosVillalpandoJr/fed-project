@@ -69,7 +69,7 @@ export function ProductCarousel({
 
 
     return (
-        <div className="lg:flex lg:gap-5" role="region" aria-label="Product images">
+        <div className="lg:flex lg:gap-5" aria-label="Product images">
             <div className="hidden lg:flex flex-col gap-2" role="tablist" aria-label="Product thumbnails">
                 {thumbnailImages.map((image, index) => (
                     <button
@@ -97,15 +97,14 @@ export function ProductCarousel({
                 <div
                     className={`${styles.embla} h-full`}
                     ref={emblaRef}
-                    role="tabpanel"
-                    aria-label={`${product.title} image ${selectedImageIndex + 1} of ${heroImages.length}`}
+                    role="group"
+                    aria-label={`${product.title} image carousel`}
                 >
                     <div className={styles.embla__container}>
                         {heroImages.map((image, index) => (
                             <div
                                 key={image.name}
                                 className={styles.embla__slide}
-                                role="tabpanel"
                                 aria-hidden={selectedImageIndex !== index}
                             >
                                 <Image

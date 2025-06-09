@@ -21,6 +21,12 @@ export function AddToBagButton({ selectedSize }: AddToBagButtonProps) {
                     ? 'bg-green-600'
                     : 'bg-black hover:bg-gray-800'
                 }`}
+            aria-label={!selectedSize
+                ? "Select a size to add to bag"
+                : isAdded
+                    ? "Item added to bag"
+                    : "Add item to bag"}
+            aria-disabled={!selectedSize}
         >
             {!selectedSize
                 ? 'Select a Size'

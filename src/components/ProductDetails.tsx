@@ -23,22 +23,26 @@ export function ProductDetails({
     };
 
     return (
-        <div className="flex flex-col gap-4" role="complementary" aria-label="Product details">
-            <div className="text-sm text-gray-600" aria-label="Product category">
+        <div className="flex flex-col gap-4" aria-label="Product details">
+            <p className="text-sm text-gray-600" aria-label="Product category">
                 {product.category}
-            </div>
+            </p>
 
             <h1 className="text-xl font-semibold">{product.title}</h1>
 
-            <p className="text-xl font-semibold" aria-label={`Price: ${currency} ${price}`}>
+            <data
+                value={price.toString()}
+                className="text-xl font-semibold"
+                aria-label={`Price: ${currency} ${price}`}
+            >
                 {currency} {price}
-            </p>
+            </data>
 
             <p className="text-sm text-gray-600" aria-label={`Available colors: ${displayColor}`}>
                 {displayColor}
             </p>
 
-            <div className="flex flex-col gap-2">
+            <section className="flex flex-col gap-2">
                 <h2 className="text-sm font-semibold" id="color-selector">Color</h2>
 
                 <div className="flex gap-2" role="radiogroup" aria-labelledby="color-selector">
@@ -57,9 +61,9 @@ export function ProductDetails({
                         />
                     ))}
                 </div>
-            </div>
+            </section>
 
-            <div className="flex flex-col gap-2">
+            <section className="flex flex-col gap-2">
                 <h2 className="text-sm font-semibold" id="size-selector">Size</h2>
 
                 <div className="flex flex-wrap gap-2" role="radiogroup" aria-labelledby="size-selector">
@@ -81,7 +85,7 @@ export function ProductDetails({
                             </button>
                         ))}
                 </div>
-            </div>
+            </section>
 
             <ExpandableSection title="Why You'll Love It">
                 <p className="text-sm text-gray-700">{product.marketingRomance}</p>

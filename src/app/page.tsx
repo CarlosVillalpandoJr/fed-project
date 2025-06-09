@@ -37,7 +37,7 @@ export default function ProductPage() {
           />
         </section>
 
-        <div className="flex flex-col gap-8 pb-24 lg:pb-0">
+        <section className="flex flex-col gap-8 pb-24 lg:pb-0">
           <ProductDetails
             product={product}
             updateProductColor={updateProductColor}
@@ -49,14 +49,14 @@ export default function ProductPage() {
 
           <div
             className="fixed bottom-0 left-0 right-0 bg-white p-4 pb-safe lg:static lg:p-0"
-            role="complementary"
+            role="region"
             aria-label="Add to bag section"
           >
             <AddToBagButton
               selectedSize={selectedSize}
             />
           </div>
-        </div>
+        </section>
       </div>
     </main>
   );
